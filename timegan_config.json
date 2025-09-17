@@ -1,0 +1,35 @@
+{
+  "data_dir": "./preprocessed",
+  "out_dir": "./timegan_runs",
+
+  "batch_size": 64,
+
+  "ae_epochs": 120,
+  "sup_epochs": 150,
+  "gan_steps": 8000,
+
+  "lr_g": 0.001,
+  "lr_d": 0.0003,
+  "beta1": 0.5,
+  "beta2": 0.9,
+
+  "alpha_sup": 3.0,
+  "beta_rec": 0.15,
+
+  "label_smooth": 0.2,
+  "inst_noise_start": 0.25,
+  "inst_noise_end": 0.05,
+
+  "grad_clip": 0.5,
+  "layers": 1,
+  "dropout": 0.2,
+  "seed": 42,
+
+  "r1_gamma": 1.0,
+  "d_min_acc": 0.45,
+  "d_max_acc": 0.68,
+
+  "gamma_cov": 0.03,
+  "gamma_acf": 0.02,
+  "acf_max_lag": 48
+}
