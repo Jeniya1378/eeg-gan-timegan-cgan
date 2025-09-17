@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738.csv",
+  "posture": 4,
+  "total_duration_sec": 330.8300280570984,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.22637128829956
+    },
+    {
+      "label": "rest1",
+      "start": 90.22637128829956,
+      "end": 120.30182838439943
+    },
+    {
+      "label": "trial2",
+      "start": 120.30182838439943,
+      "end": 210.528199672699
+    },
+    {
+      "label": "rest2",
+      "start": 210.528199672699,
+      "end": 240.60365676879886
+    },
+    {
+      "label": "trial3",
+      "start": 240.60365676879886,
+      "end": 330.8300280570984
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738_trial1.csv",
+      "duration_sec": 90.22637128829956
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738_rest1.csv",
+      "duration_sec": 30.075457096099868
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738_trial2.csv",
+      "duration_sec": 90.22637128829957
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738_rest2.csv",
+      "duration_sec": 30.075457096099854
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141738_trial3.csv",
+      "duration_sec": 90.22637128829953
+    }
+  ]
+}

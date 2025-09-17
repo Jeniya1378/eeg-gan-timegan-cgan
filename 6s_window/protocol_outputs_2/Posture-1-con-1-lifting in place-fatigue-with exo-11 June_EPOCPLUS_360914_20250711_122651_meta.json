@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651.csv",
+  "posture": 1,
+  "total_duration_sec": 131.4185540676117,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 20.0
+    },
+    {
+      "label": "rest1",
+      "start": 20.0,
+      "end": 50.0
+    },
+    {
+      "label": "trial2",
+      "start": 50.0,
+      "end": 70.0
+    },
+    {
+      "label": "rest2",
+      "start": 70.0,
+      "end": 100.0
+    },
+    {
+      "label": "trial3",
+      "start": 100.0,
+      "end": 131.4185540676117
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651_trial1.csv",
+      "duration_sec": 20.0
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651_rest1.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651_trial2.csv",
+      "duration_sec": 20.0
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651_rest2.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_122651_trial3.csv",
+      "duration_sec": 31.418554067611694
+    }
+  ]
+}

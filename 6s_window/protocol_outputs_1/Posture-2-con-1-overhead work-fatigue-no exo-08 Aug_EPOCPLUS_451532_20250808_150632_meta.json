@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632.csv",
+  "posture": 2,
+  "total_duration_sec": 151.90461921691895,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 30.38092384338379
+    },
+    {
+      "label": "rest1",
+      "start": 30.38092384338379,
+      "end": 60.76184768676758
+    },
+    {
+      "label": "trial2",
+      "start": 60.76184768676758,
+      "end": 91.14277153015138
+    },
+    {
+      "label": "rest2",
+      "start": 91.14277153015138,
+      "end": 121.52369537353516
+    },
+    {
+      "label": "trial3",
+      "start": 121.52369537353516,
+      "end": 151.90461921691895
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632_trial1.csv",
+      "duration_sec": 30.38092384338379
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632_rest1.csv",
+      "duration_sec": 30.38092384338379
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632_trial2.csv",
+      "duration_sec": 30.380923843383798
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632_rest2.csv",
+      "duration_sec": 30.380923843383783
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_150632_trial3.csv",
+      "duration_sec": 30.380923843383783
+    }
+  ]
+}

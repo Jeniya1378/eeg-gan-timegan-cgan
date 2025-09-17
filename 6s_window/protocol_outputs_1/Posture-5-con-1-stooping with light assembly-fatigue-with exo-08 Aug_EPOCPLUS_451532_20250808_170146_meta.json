@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146.csv",
+  "posture": 5,
+  "total_duration_sec": 331.39062881469727,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.37926240400834
+    },
+    {
+      "label": "rest1",
+      "start": 90.37926240400834,
+      "end": 120.50568320534447
+    },
+    {
+      "label": "trial2",
+      "start": 120.50568320534447,
+      "end": 210.8849456093528
+    },
+    {
+      "label": "rest2",
+      "start": 210.8849456093528,
+      "end": 241.01136641068894
+    },
+    {
+      "label": "trial3",
+      "start": 241.01136641068894,
+      "end": 331.39062881469727
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146_trial1.csv",
+      "duration_sec": 90.37926240400834
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146_rest1.csv",
+      "duration_sec": 30.126420801336124
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146_trial2.csv",
+      "duration_sec": 90.37926240400833
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146_rest2.csv",
+      "duration_sec": 30.12642080133614
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_170146_trial3.csv",
+      "duration_sec": 90.37926240400833
+    }
+  ]
+}

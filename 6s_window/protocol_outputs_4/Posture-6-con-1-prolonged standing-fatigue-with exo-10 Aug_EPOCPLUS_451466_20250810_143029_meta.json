@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029.csv",
+  "posture": 6,
+  "total_duration_sec": 331.55003094673157,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.42273571274497
+    },
+    {
+      "label": "rest1",
+      "start": 90.42273571274497,
+      "end": 120.5636476169933
+    },
+    {
+      "label": "trial2",
+      "start": 120.5636476169933,
+      "end": 210.98638332973826
+    },
+    {
+      "label": "rest2",
+      "start": 210.98638332973826,
+      "end": 241.1272952339866
+    },
+    {
+      "label": "trial3",
+      "start": 241.1272952339866,
+      "end": 331.55003094673157
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029_trial1.csv",
+      "duration_sec": 90.42273571274497
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029_rest1.csv",
+      "duration_sec": 30.140911904248327
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029_trial2.csv",
+      "duration_sec": 90.42273571274497
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029_rest2.csv",
+      "duration_sec": 30.140911904248327
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_143029_trial3.csv",
+      "duration_sec": 90.42273571274498
+    }
+  ]
+}

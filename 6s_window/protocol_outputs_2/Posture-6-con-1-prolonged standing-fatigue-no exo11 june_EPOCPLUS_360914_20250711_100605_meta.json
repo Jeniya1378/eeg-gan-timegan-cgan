@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605.csv",
+  "posture": 6,
+  "total_duration_sec": 349.2614779472351,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 95.25313034924594
+    },
+    {
+      "label": "rest1",
+      "start": 95.25313034924594,
+      "end": 127.00417379899459
+    },
+    {
+      "label": "trial2",
+      "start": 127.00417379899459,
+      "end": 222.25730414824054
+    },
+    {
+      "label": "rest2",
+      "start": 222.25730414824054,
+      "end": 254.00834759798917
+    },
+    {
+      "label": "trial3",
+      "start": 254.00834759798917,
+      "end": 349.2614779472351
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605_trial1.csv",
+      "duration_sec": 95.25313034924594
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605_rest1.csv",
+      "duration_sec": 31.75104344974865
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605_trial2.csv",
+      "duration_sec": 95.25313034924595
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605_rest2.csv",
+      "duration_sec": 31.751043449748636
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo11 june_EPOCPLUS_360914_20250711_100605_trial3.csv",
+      "duration_sec": 95.25313034924594
+    }
+  ]
+}

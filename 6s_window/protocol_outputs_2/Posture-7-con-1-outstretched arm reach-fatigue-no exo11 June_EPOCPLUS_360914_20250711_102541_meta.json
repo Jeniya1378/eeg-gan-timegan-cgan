@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541.csv",
+  "posture": 7,
+  "total_duration_sec": 354.3134870529175,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 96.63095101443203
+    },
+    {
+      "label": "rest1",
+      "start": 96.63095101443203,
+      "end": 128.8412680192427
+    },
+    {
+      "label": "trial2",
+      "start": 128.8412680192427,
+      "end": 225.47221903367475
+    },
+    {
+      "label": "rest2",
+      "start": 225.47221903367475,
+      "end": 257.6825360384854
+    },
+    {
+      "label": "trial3",
+      "start": 257.6825360384854,
+      "end": 354.3134870529175
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541_trial1.csv",
+      "duration_sec": 96.63095101443203
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541_rest1.csv",
+      "duration_sec": 32.210317004810676
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541_trial2.csv",
+      "duration_sec": 96.63095101443204
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541_rest2.csv",
+      "duration_sec": 32.21031700481066
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo11 June_EPOCPLUS_360914_20250711_102541_trial3.csv",
+      "duration_sec": 96.63095101443207
+    }
+  ]
+}

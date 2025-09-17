@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331.csv",
+  "posture": 4,
+  "total_duration_sec": 354.9927718639374,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 96.81621050834656
+    },
+    {
+      "label": "rest1",
+      "start": 96.81621050834656,
+      "end": 129.0882806777954
+    },
+    {
+      "label": "trial2",
+      "start": 129.0882806777954,
+      "end": 225.90449118614197
+    },
+    {
+      "label": "rest2",
+      "start": 225.90449118614197,
+      "end": 258.1765613555908
+    },
+    {
+      "label": "trial3",
+      "start": 258.1765613555908,
+      "end": 354.9927718639374
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331_trial1.csv",
+      "duration_sec": 96.81621050834656
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331_rest1.csv",
+      "duration_sec": 32.27207016944885
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331_trial2.csv",
+      "duration_sec": 96.81621050834656
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331_rest2.csv",
+      "duration_sec": 32.27207016944885
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo_EPOCPLUS_360914_20250710_152331_trial3.csv",
+      "duration_sec": 96.81621050834656
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419.csv",
+  "posture": 7,
+  "total_duration_sec": 331.04456996917725,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.28488271886653
+    },
+    {
+      "label": "rest1",
+      "start": 90.28488271886653,
+      "end": 120.37984362515536
+    },
+    {
+      "label": "trial2",
+      "start": 120.37984362515536,
+      "end": 210.6647263440219
+    },
+    {
+      "label": "rest2",
+      "start": 210.6647263440219,
+      "end": 240.75968725031072
+    },
+    {
+      "label": "trial3",
+      "start": 240.75968725031072,
+      "end": 331.04456996917725
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419_trial1.csv",
+      "duration_sec": 90.28488271886653
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419_rest1.csv",
+      "duration_sec": 30.094960906288833
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419_trial2.csv",
+      "duration_sec": 90.28488271886653
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419_rest2.csv",
+      "duration_sec": 30.094960906288833
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_192419_trial3.csv",
+      "duration_sec": 90.28488271886653
+    }
+  ]
+}

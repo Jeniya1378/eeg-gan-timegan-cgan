@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505.csv",
+  "posture": 3,
+  "total_duration_sec": 330.2720310688019,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.07419029149143
+    },
+    {
+      "label": "rest1",
+      "start": 90.07419029149143,
+      "end": 120.09892038865524
+    },
+    {
+      "label": "trial2",
+      "start": 120.09892038865524,
+      "end": 210.17311068014666
+    },
+    {
+      "label": "rest2",
+      "start": 210.17311068014666,
+      "end": 240.1978407773105
+    },
+    {
+      "label": "trial3",
+      "start": 240.1978407773105,
+      "end": 330.2720310688019
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505_trial1.csv",
+      "duration_sec": 90.07419029149143
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505_rest1.csv",
+      "duration_sec": 30.02473009716381
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505_trial2.csv",
+      "duration_sec": 90.07419029149142
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505_rest2.csv",
+      "duration_sec": 30.024730097163825
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-3-con-1-deep squatting-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_134505_trial3.csv",
+      "duration_sec": 90.07419029149139
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714.csv",
+  "posture": 1,
+  "total_duration_sec": 121.15497994422913,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 20.0
+    },
+    {
+      "label": "rest1",
+      "start": 20.0,
+      "end": 50.0
+    },
+    {
+      "label": "trial2",
+      "start": 50.0,
+      "end": 70.0
+    },
+    {
+      "label": "rest2",
+      "start": 70.0,
+      "end": 100.0
+    },
+    {
+      "label": "trial3",
+      "start": 100.0,
+      "end": 121.15497994422913
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714_trial1.csv",
+      "duration_sec": 20.0
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714_rest1.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714_trial2.csv",
+      "duration_sec": 20.0
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714_rest2.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-no exo-04 Aug_EPOCPLUS_293398_20250804_193714_trial3.csv",
+      "duration_sec": 21.154979944229126
+    }
+  ]
+}

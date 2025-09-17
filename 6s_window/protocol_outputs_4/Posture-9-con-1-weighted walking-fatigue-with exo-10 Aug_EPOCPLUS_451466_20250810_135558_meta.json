@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558.csv",
+  "posture": 9,
+  "total_duration_sec": 243.86452078819275,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 60.96613019704818
+    },
+    {
+      "label": "rest1",
+      "start": 60.96613019704818,
+      "end": 91.44919529557228
+    },
+    {
+      "label": "trial2",
+      "start": 91.44919529557228,
+      "end": 152.41532549262047
+    },
+    {
+      "label": "rest2",
+      "start": 152.41532549262047,
+      "end": 182.89839059114456
+    },
+    {
+      "label": "trial3",
+      "start": 182.89839059114456,
+      "end": 243.86452078819275
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558_trial1.csv",
+      "duration_sec": 60.96613019704818
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558_rest1.csv",
+      "duration_sec": 30.4830650985241
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558_trial2.csv",
+      "duration_sec": 60.96613019704819
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558_rest2.csv",
+      "duration_sec": 30.483065098524094
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_135558_trial3.csv",
+      "duration_sec": 60.96613019704819
+    }
+  ]
+}

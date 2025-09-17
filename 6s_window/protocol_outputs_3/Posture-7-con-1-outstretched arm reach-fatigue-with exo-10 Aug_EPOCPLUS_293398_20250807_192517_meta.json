@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517.csv",
+  "posture": 7,
+  "total_duration_sec": 333.578754901886,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.97602406415074
+    },
+    {
+      "label": "rest1",
+      "start": 90.97602406415074,
+      "end": 121.30136541886765
+    },
+    {
+      "label": "trial2",
+      "start": 121.30136541886765,
+      "end": 212.27738948301837
+    },
+    {
+      "label": "rest2",
+      "start": 212.27738948301837,
+      "end": 242.6027308377353
+    },
+    {
+      "label": "trial3",
+      "start": 242.6027308377353,
+      "end": 333.578754901886
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517_trial1.csv",
+      "duration_sec": 90.97602406415074
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517_rest1.csv",
+      "duration_sec": 30.32534135471691
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517_trial2.csv",
+      "duration_sec": 90.97602406415072
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517_rest2.csv",
+      "duration_sec": 30.325341354716926
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_192517_trial3.csv",
+      "duration_sec": 90.97602406415069
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949.csv",
+  "posture": 7,
+  "total_duration_sec": 331.3771209716797,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.37557844682173
+    },
+    {
+      "label": "rest1",
+      "start": 90.37557844682173,
+      "end": 120.50077126242898
+    },
+    {
+      "label": "trial2",
+      "start": 120.50077126242898,
+      "end": 210.87634970925072
+    },
+    {
+      "label": "rest2",
+      "start": 210.87634970925072,
+      "end": 241.00154252485797
+    },
+    {
+      "label": "trial3",
+      "start": 241.00154252485797,
+      "end": 331.3771209716797
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949_trial1.csv",
+      "duration_sec": 90.37557844682173
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949_rest1.csv",
+      "duration_sec": 30.12519281560725
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949_trial2.csv",
+      "duration_sec": 90.37557844682173
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949_rest2.csv",
+      "duration_sec": 30.12519281560725
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_164949_trial3.csv",
+      "duration_sec": 90.37557844682172
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-8-con-1-twisting asymmetrical reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141036.csv",
+  "posture": 8,
+  "total_duration_sec": 45.799257040023804,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 45.799257040023804
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-8-con-1-twisting asymmetrical reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_141036_trial1.csv",
+      "duration_sec": 45.799257040023804
+    }
+  ]
+}

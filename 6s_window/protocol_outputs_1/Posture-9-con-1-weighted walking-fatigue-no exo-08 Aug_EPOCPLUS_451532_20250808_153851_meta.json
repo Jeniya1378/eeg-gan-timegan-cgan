@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851.csv",
+  "posture": 9,
+  "total_duration_sec": 240.91631889343262,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 60.22907972335815
+    },
+    {
+      "label": "rest1",
+      "start": 60.22907972335815,
+      "end": 90.34361958503723
+    },
+    {
+      "label": "trial2",
+      "start": 90.34361958503723,
+      "end": 150.57269930839539
+    },
+    {
+      "label": "rest2",
+      "start": 150.57269930839539,
+      "end": 180.68723917007446
+    },
+    {
+      "label": "trial3",
+      "start": 180.68723917007446,
+      "end": 240.91631889343262
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851_trial1.csv",
+      "duration_sec": 60.22907972335815
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851_rest1.csv",
+      "duration_sec": 30.114539861679084
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851_trial2.csv",
+      "duration_sec": 60.229079723358154
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851_rest2.csv",
+      "duration_sec": 30.114539861679077
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_153851_trial3.csv",
+      "duration_sec": 60.229079723358154
+    }
+  ]
+}

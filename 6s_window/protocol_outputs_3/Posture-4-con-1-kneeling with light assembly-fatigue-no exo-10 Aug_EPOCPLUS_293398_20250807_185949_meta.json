@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949.csv",
+  "posture": 4,
+  "total_duration_sec": 332.8120291233063,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.76691703362897
+    },
+    {
+      "label": "rest1",
+      "start": 90.76691703362897,
+      "end": 121.02255604483864
+    },
+    {
+      "label": "trial2",
+      "start": 121.02255604483864,
+      "end": 211.7894730784676
+    },
+    {
+      "label": "rest2",
+      "start": 211.7894730784676,
+      "end": 242.04511208967727
+    },
+    {
+      "label": "trial3",
+      "start": 242.04511208967727,
+      "end": 332.8120291233063
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949_trial1.csv",
+      "duration_sec": 90.76691703362897
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949_rest1.csv",
+      "duration_sec": 30.255639011209666
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949_trial2.csv",
+      "duration_sec": 90.76691703362897
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949_rest2.csv",
+      "duration_sec": 30.255639011209666
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-10 Aug_EPOCPLUS_293398_20250807_185949_trial3.csv",
+      "duration_sec": 90.766917033629
+    }
+  ]
+}
