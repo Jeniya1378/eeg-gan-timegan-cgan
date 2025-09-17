@@ -1,0 +1,2 @@
+file,fs,n_epochs,n_samples_per_epoch,n_channels,Workload (thetaF/alphaPO),Global Theta/Alpha,Global TBR,Global TABR,Global ABR
+posture8_no_exo.npz,128.0,50,768,14,8.577875702105517,8.577875702105517,42.6434576951112,47.61478847499615,4.971330779884952
