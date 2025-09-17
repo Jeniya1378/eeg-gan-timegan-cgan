@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335.csv",
+  "posture": 4,
+  "total_duration_sec": 330.36731004714966,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.10017546740445
+    },
+    {
+      "label": "rest1",
+      "start": 90.10017546740445,
+      "end": 120.13356728987262
+    },
+    {
+      "label": "trial2",
+      "start": 120.13356728987262,
+      "end": 210.23374275727707
+    },
+    {
+      "label": "rest2",
+      "start": 210.23374275727707,
+      "end": 240.26713457974523
+    },
+    {
+      "label": "trial3",
+      "start": 240.26713457974523,
+      "end": 330.36731004714966
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335_trial1.csv",
+      "duration_sec": 90.10017546740445
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335_rest1.csv",
+      "duration_sec": 30.03339182246816
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335_trial2.csv",
+      "duration_sec": 90.10017546740445
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335_rest2.csv",
+      "duration_sec": 30.03339182246816
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-07 Aug_EPOCPLUS_293398_20250807_200335_trial3.csv",
+      "duration_sec": 90.10017546740443
+    }
+  ]
+}

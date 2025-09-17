@@ -1,0 +1,5 @@
+level,posture,split,rmse,r2
+global,0,TSTR,0.0,1.0
+global,0,TRTS,3.3556872700076125e-08,0.0
+posture,2,TSTR,0.0,1.0
+posture,2,TRTS,3.3556872700076125e-08,0.0

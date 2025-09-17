@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353.csv",
+  "posture": 2,
+  "total_duration_sec": 194.70010614395142,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 38.94002122879028
+    },
+    {
+      "label": "rest1",
+      "start": 38.94002122879028,
+      "end": 77.88004245758056
+    },
+    {
+      "label": "trial2",
+      "start": 77.88004245758056,
+      "end": 116.82006368637084
+    },
+    {
+      "label": "rest2",
+      "start": 116.82006368637084,
+      "end": 155.76008491516112
+    },
+    {
+      "label": "trial3",
+      "start": 155.76008491516112,
+      "end": 194.70010614395142
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353_trial1.csv",
+      "duration_sec": 38.94002122879028
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353_rest1.csv",
+      "duration_sec": 38.94002122879028
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353_trial2.csv",
+      "duration_sec": 38.940021228790286
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353_rest2.csv",
+      "duration_sec": 38.94002122879027
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-no exo-10 June_EPOCPLUS_360914_20250710_145353_trial3.csv",
+      "duration_sec": 38.9400212287903
+    }
+  ]
+}

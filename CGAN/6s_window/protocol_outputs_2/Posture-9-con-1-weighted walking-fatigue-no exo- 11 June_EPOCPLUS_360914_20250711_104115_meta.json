@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115.csv",
+  "posture": 9,
+  "total_duration_sec": 273.6446089744568,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 68.4111522436142
+    },
+    {
+      "label": "rest1",
+      "start": 68.4111522436142,
+      "end": 102.6167283654213
+    },
+    {
+      "label": "trial2",
+      "start": 102.6167283654213,
+      "end": 171.0278806090355
+    },
+    {
+      "label": "rest2",
+      "start": 171.0278806090355,
+      "end": 205.2334567308426
+    },
+    {
+      "label": "trial3",
+      "start": 205.2334567308426,
+      "end": 273.6446089744568
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115_trial1.csv",
+      "duration_sec": 68.4111522436142
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115_rest1.csv",
+      "duration_sec": 34.2055761218071
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115_trial2.csv",
+      "duration_sec": 68.4111522436142
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115_rest2.csv",
+      "duration_sec": 34.2055761218071
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-9-con-1-weighted walking-fatigue-no exo- 11 June_EPOCPLUS_360914_20250711_104115_trial3.csv",
+      "duration_sec": 68.4111522436142
+    }
+  ]
+}

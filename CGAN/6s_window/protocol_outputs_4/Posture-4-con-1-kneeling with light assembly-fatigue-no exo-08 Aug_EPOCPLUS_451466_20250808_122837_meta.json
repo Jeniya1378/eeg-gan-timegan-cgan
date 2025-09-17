@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837.csv",
+  "posture": 4,
+  "total_duration_sec": 333.9012348651886,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 91.06397314505143
+    },
+    {
+      "label": "rest1",
+      "start": 91.06397314505143,
+      "end": 121.41863086006857
+    },
+    {
+      "label": "trial2",
+      "start": 121.41863086006857,
+      "end": 212.48260400512
+    },
+    {
+      "label": "rest2",
+      "start": 212.48260400512,
+      "end": 242.83726172013715
+    },
+    {
+      "label": "trial3",
+      "start": 242.83726172013715,
+      "end": 333.9012348651886
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837_trial1.csv",
+      "duration_sec": 91.06397314505143
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837_rest1.csv",
+      "duration_sec": 30.35465771501714
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837_trial2.csv",
+      "duration_sec": 91.06397314505143
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837_rest2.csv",
+      "duration_sec": 30.35465771501714
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-no exo-08 Aug_EPOCPLUS_451466_20250808_122837_trial3.csv",
+      "duration_sec": 91.06397314505145
+    }
+  ]
+}

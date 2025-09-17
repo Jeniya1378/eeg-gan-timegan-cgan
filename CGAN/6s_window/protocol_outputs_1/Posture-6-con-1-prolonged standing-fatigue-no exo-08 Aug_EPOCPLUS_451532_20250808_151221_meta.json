@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221.csv",
+  "posture": 6,
+  "total_duration_sec": 330.83457708358765,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.22761193188754
+    },
+    {
+      "label": "rest1",
+      "start": 90.22761193188754,
+      "end": 120.30348257585004
+    },
+    {
+      "label": "trial2",
+      "start": 120.30348257585004,
+      "end": 210.53109450773758
+    },
+    {
+      "label": "rest2",
+      "start": 210.53109450773758,
+      "end": 240.60696515170008
+    },
+    {
+      "label": "trial3",
+      "start": 240.60696515170008,
+      "end": 330.83457708358765
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221_trial1.csv",
+      "duration_sec": 90.22761193188754
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221_rest1.csv",
+      "duration_sec": 30.075870643962503
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221_trial2.csv",
+      "duration_sec": 90.22761193188754
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221_rest2.csv",
+      "duration_sec": 30.075870643962503
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-6-con-1-prolonged standing-fatigue-no exo-08 Aug_EPOCPLUS_451532_20250808_151221_trial3.csv",
+      "duration_sec": 90.22761193188757
+    }
+  ]
+}

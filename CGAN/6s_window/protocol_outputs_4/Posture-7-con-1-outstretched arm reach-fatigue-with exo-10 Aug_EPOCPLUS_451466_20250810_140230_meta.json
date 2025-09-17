@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230.csv",
+  "posture": 7,
+  "total_duration_sec": 332.781357049942,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.75855192271146
+    },
+    {
+      "label": "rest1",
+      "start": 90.75855192271146,
+      "end": 121.01140256361529
+    },
+    {
+      "label": "trial2",
+      "start": 121.01140256361529,
+      "end": 211.76995448632675
+    },
+    {
+      "label": "rest2",
+      "start": 211.76995448632675,
+      "end": 242.02280512723058
+    },
+    {
+      "label": "trial3",
+      "start": 242.02280512723058,
+      "end": 332.781357049942
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230_trial1.csv",
+      "duration_sec": 90.75855192271146
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230_rest1.csv",
+      "duration_sec": 30.25285064090383
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230_trial2.csv",
+      "duration_sec": 90.75855192271146
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230_rest2.csv",
+      "duration_sec": 30.25285064090383
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-7-con-1-outstretched arm reach-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_140230_trial3.csv",
+      "duration_sec": 90.75855192271143
+    }
+  ]
+}

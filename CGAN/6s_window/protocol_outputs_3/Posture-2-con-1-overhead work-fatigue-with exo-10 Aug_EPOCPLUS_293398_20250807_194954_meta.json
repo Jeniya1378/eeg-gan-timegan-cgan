@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954.csv",
+  "posture": 2,
+  "total_duration_sec": 182.5362410545349,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 36.50724821090699
+    },
+    {
+      "label": "rest1",
+      "start": 36.50724821090699,
+      "end": 73.01449642181397
+    },
+    {
+      "label": "trial2",
+      "start": 73.01449642181397,
+      "end": 109.52174463272095
+    },
+    {
+      "label": "rest2",
+      "start": 109.52174463272095,
+      "end": 146.02899284362795
+    },
+    {
+      "label": "trial3",
+      "start": 146.02899284362795,
+      "end": 182.5362410545349
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954_trial1.csv",
+      "duration_sec": 36.50724821090699
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954_rest1.csv",
+      "duration_sec": 36.50724821090699
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954_trial2.csv",
+      "duration_sec": 36.50724821090698
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954_rest2.csv",
+      "duration_sec": 36.507248210906994
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-2-con-1-overhead work-fatigue-with exo-10 Aug_EPOCPLUS_293398_20250807_194954_trial3.csv",
+      "duration_sec": 36.507248210906965
+    }
+  ]
+}

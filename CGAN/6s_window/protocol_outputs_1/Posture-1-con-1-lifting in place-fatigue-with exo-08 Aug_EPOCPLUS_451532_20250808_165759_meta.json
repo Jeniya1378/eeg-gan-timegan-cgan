@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759.csv",
+  "posture": 1,
+  "total_duration_sec": 103.37795805931091,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 14.459319353103638
+    },
+    {
+      "label": "rest1",
+      "start": 14.459319353103638,
+      "end": 44.45931935310364
+    },
+    {
+      "label": "trial2",
+      "start": 44.45931935310364,
+      "end": 58.918638706207275
+    },
+    {
+      "label": "rest2",
+      "start": 58.918638706207275,
+      "end": 88.91863870620728
+    },
+    {
+      "label": "trial3",
+      "start": 88.91863870620728,
+      "end": 103.37795805931091
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759_trial1.csv",
+      "duration_sec": 14.459319353103638
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759_rest1.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759_trial2.csv",
+      "duration_sec": 14.459319353103638
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759_rest2.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_165759_trial3.csv",
+      "duration_sec": 14.459319353103638
+    }
+  ]
+}

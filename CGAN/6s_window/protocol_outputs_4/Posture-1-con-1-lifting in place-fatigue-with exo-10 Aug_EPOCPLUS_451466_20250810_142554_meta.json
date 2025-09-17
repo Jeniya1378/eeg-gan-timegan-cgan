@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Saima\\Dataset\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554.csv",
+  "posture": 1,
+  "total_duration_sec": 113.2145140171051,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 17.738171339035034
+    },
+    {
+      "label": "rest1",
+      "start": 17.738171339035034,
+      "end": 47.738171339035034
+    },
+    {
+      "label": "trial2",
+      "start": 47.738171339035034,
+      "end": 65.47634267807007
+    },
+    {
+      "label": "rest2",
+      "start": 65.47634267807007,
+      "end": 95.47634267807007
+    },
+    {
+      "label": "trial3",
+      "start": 95.47634267807007,
+      "end": 113.2145140171051
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554_trial1.csv",
+      "duration_sec": 17.738171339035034
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554_rest1.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554_trial2.csv",
+      "duration_sec": 17.738171339035034
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554_rest2.csv",
+      "duration_sec": 30.0
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Saima\\protocol_outputs\\Posture-1-con-1-lifting in place-fatigue-with exo-10 Aug_EPOCPLUS_451466_20250810_142554_trial3.csv",
+      "duration_sec": 17.738171339035034
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325.csv",
+  "posture": 5,
+  "total_duration_sec": 369.0074248313904,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 100.63838859037921
+    },
+    {
+      "label": "rest1",
+      "start": 100.63838859037921,
+      "end": 134.1845181205056
+    },
+    {
+      "label": "trial2",
+      "start": 134.1845181205056,
+      "end": 234.8229067108848
+    },
+    {
+      "label": "rest2",
+      "start": 234.8229067108848,
+      "end": 268.3690362410112
+    },
+    {
+      "label": "trial3",
+      "start": 268.3690362410112,
+      "end": 369.0074248313904
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325_trial1.csv",
+      "duration_sec": 100.63838859037921
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325_rest1.csv",
+      "duration_sec": 33.54612953012639
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325_trial2.csv",
+      "duration_sec": 100.63838859037921
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325_rest2.csv",
+      "duration_sec": 33.54612953012639
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-with exo-11 June_EPOCPLUS_360914_20250711_153325_trial3.csv",
+      "duration_sec": 100.63838859037918
+    }
+  ]
+}

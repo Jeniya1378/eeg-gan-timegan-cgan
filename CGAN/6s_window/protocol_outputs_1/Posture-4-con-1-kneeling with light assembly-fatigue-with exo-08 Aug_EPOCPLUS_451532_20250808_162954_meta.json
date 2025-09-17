@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Dr. Kim\\Dataset\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954.csv",
+  "posture": 4,
+  "total_duration_sec": 332.5793721675873,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.70346513661471
+    },
+    {
+      "label": "rest1",
+      "start": 90.70346513661471,
+      "end": 120.93795351548629
+    },
+    {
+      "label": "trial2",
+      "start": 120.93795351548629,
+      "end": 211.641418652101
+    },
+    {
+      "label": "rest2",
+      "start": 211.641418652101,
+      "end": 241.87590703097257
+    },
+    {
+      "label": "trial3",
+      "start": 241.87590703097257,
+      "end": 332.5793721675873
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954_trial1.csv",
+      "duration_sec": 90.70346513661471
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954_rest1.csv",
+      "duration_sec": 30.234488378871575
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954_trial2.csv",
+      "duration_sec": 90.70346513661472
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954_rest2.csv",
+      "duration_sec": 30.23448837887156
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Dr. Kim\\protocol_outputs\\Posture-4-con-1-kneeling with light assembly-fatigue-with exo-08 Aug_EPOCPLUS_451532_20250808_162954_trial3.csv",
+      "duration_sec": 90.70346513661471
+    }
+  ]
+}

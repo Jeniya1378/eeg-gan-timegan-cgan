@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Muhtasim\\Dataset\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806.csv",
+  "posture": 5,
+  "total_duration_sec": 333.4101469516754,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 90.93004007772966
+    },
+    {
+      "label": "rest1",
+      "start": 90.93004007772966,
+      "end": 121.24005343697287
+    },
+    {
+      "label": "trial2",
+      "start": 121.24005343697287,
+      "end": 212.17009351470253
+    },
+    {
+      "label": "rest2",
+      "start": 212.17009351470253,
+      "end": 242.48010687394574
+    },
+    {
+      "label": "trial3",
+      "start": 242.48010687394574,
+      "end": 333.4101469516754
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806_trial1.csv",
+      "duration_sec": 90.93004007772966
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806_rest1.csv",
+      "duration_sec": 30.310013359243214
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806_trial2.csv",
+      "duration_sec": 90.93004007772966
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806_rest2.csv",
+      "duration_sec": 30.310013359243214
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Muhtasim\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-07 Aug_EPOCPLUS_293398_20250807_190806_trial3.csv",
+      "duration_sec": 90.93004007772967
+    }
+  ]
+}

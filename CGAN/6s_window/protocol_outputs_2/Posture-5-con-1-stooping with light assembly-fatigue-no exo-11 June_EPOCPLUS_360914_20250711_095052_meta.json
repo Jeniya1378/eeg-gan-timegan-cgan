@@ -1,0 +1,59 @@
+{
+  "file": "../Participants\\Jeniya\\Dataset\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052.csv",
+  "posture": 5,
+  "total_duration_sec": 338.36630296707153,
+  "windows": [
+    {
+      "label": "trial1",
+      "start": 0.0,
+      "end": 92.28171899101952
+    },
+    {
+      "label": "rest1",
+      "start": 92.28171899101952,
+      "end": 123.04229198802602
+    },
+    {
+      "label": "trial2",
+      "start": 123.04229198802602,
+      "end": 215.32401097904554
+    },
+    {
+      "label": "rest2",
+      "start": 215.32401097904554,
+      "end": 246.08458397605204
+    },
+    {
+      "label": "trial3",
+      "start": 246.08458397605204,
+      "end": 338.36630296707153
+    }
+  ],
+  "outputs": [
+    {
+      "label": "trial1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052_trial1.csv",
+      "duration_sec": 92.28171899101952
+    },
+    {
+      "label": "rest1",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052_rest1.csv",
+      "duration_sec": 30.760572997006506
+    },
+    {
+      "label": "trial2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052_trial2.csv",
+      "duration_sec": 92.28171899101952
+    },
+    {
+      "label": "rest2",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052_rest2.csv",
+      "duration_sec": 30.760572997006506
+    },
+    {
+      "label": "trial3",
+      "path": "../Participants\\Jeniya\\protocol_outputs\\Posture-5-con-1-stooping with light assembly-fatigue-no exo-11 June_EPOCPLUS_360914_20250711_095052_trial3.csv",
+      "duration_sec": 92.28171899101949
+    }
+  ]
+}
