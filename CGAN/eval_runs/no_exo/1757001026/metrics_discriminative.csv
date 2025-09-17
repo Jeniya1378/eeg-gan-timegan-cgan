@@ -1,0 +1,11 @@
+level,posture,accuracy,auc
+per_posture,1,1.0,1.0
+per_posture,2,1.0,1.0
+per_posture,3,1.0,1.0
+per_posture,4,1.0,1.0
+per_posture,5,1.0,1.0
+per_posture,6,1.0,1.0
+per_posture,7,1.0,1.0
+per_posture,8,1.0,1.0
+per_posture,9,1.0,1.0
+global,0,0.9885222381635581,0.9959524672244549

@@ -1,0 +1,27 @@
+{
+  "condition": "no_exo",
+  "started_at": "2025-09-03 22:44:14",
+  "device": "cuda",
+  "noise_dim": 100,
+  "gen_hidden": 256,
+  "disc_hidden": 256,
+  "lr_g": 0.0002,
+  "lr_d": 0.0001,
+  "betas": [
+    0.5,
+    0.999
+  ],
+  "batch_size": 32,
+  "epochs": 500,
+  "use_label_smoothing": false,
+  "dropout_d": 0.2,
+  "inst_noise": [
+    0.1,
+    0.02
+  ],
+  "data_dir": "preprocessed",
+  "N": 1161,
+  "finished_at": "2025-09-03 22:45:33",
+  "final_g_loss": 0.9906460046768188,
+  "final_d_loss": 1.2437275648117065
+}
